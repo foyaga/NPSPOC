@@ -155,4 +155,4 @@ if __name__ == '__main__':
         else:
             print("Help: -t 目标地址(http://xx.xx.xx.xx:xx)\n      -f 从文件中导入目标批量查询")
     except IndexError:
-        print("Help: -t 目标地址(http://xx.xx.xx.xx:xx)\n      -f 从文件中导入目标批量查询")
+        print("Help: -f 目标地址(http://xx.xx.xx.xx:xx)\n      -f 从文件中导入目标批量查询")
